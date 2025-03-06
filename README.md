@@ -1,4 +1,5 @@
 # Data Analyst
+Technical Skills: Microsoft Excel, SQL, Python, Power BI, Tableau
 
 ### Education
 B.A. in Economics with Econometrics| University of Mumbai | 2021- 2024
